@@ -1,0 +1,11 @@
+Saving last configuration file to .certora_internal/24_11_02_18_27_25_672/run.conf
+There is no TAC file. Going to script EVMVerifier/certoraBuild.py to main_with_args()
+Creating dir /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/.certora_internal/24_11_02_18_27_25_672/.certora_config
+In /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/RewardBalanceInvariant.spec, found the imports: []
+copying spec file /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/RewardBalanceInvariant.spec to /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/.certora_internal/24_11_02_18_27_25_672/.certora_sources/.0_RewardBalanceInvariant.spec.spec
+writing /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/.certora_internal/24_11_02_18_27_25_672/.certora_verify.json
+running ['java', '-jar', '/Users/sarkazein./Library/Python/3.9/lib/python/site-packages/certora_jars/Typechecker.jar', '-buildDirectory', '/Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/.certora_internal/24_11_02_18_27_25_672']
+Failed to run Certora Prover locally. Please check the errors below for problems in the specifications (.spec files) or the prover_args defined in the .conf file.
+[main] ERROR ALWAYS - Found errors in RewardBalanceInvariant.spec:
+[main] ERROR ALWAYS - Error in spec file (RewardBalanceInvariant.spec:3:15): Syntax error: unexpected token near `stream`
+build failed

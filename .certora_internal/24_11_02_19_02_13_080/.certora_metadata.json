@@ -1,0 +1,28 @@
+{
+    "CLI_package_name": "certora-cli",
+    "CLI_version": "7.17.2",
+    "branch": "",
+    "certora_ci_client": null,
+    "conf": {
+        "files": [
+            "src/BaseRewardStreams.sol"
+        ],
+        "process": "emv",
+        "verify": "BaseRewardStreams:RewardBalanceInvariant.spec"
+    },
+    "conf_path": null,
+    "cwd_relative": "/Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams",
+    "dirty": true,
+    "group_id": null,
+    "main_spec": "RewardBalanceInvariant.spec",
+    "origin": "",
+    "python_version": "3.9.6",
+    "raw_args": [
+        "/Users/sarkazein./Library/Python/3.9/bin/certoraRun",
+        "src/BaseRewardStreams.sol",
+        "--verify",
+        "BaseRewardStreams:RewardBalanceInvariant.spec"
+    ],
+    "revision": "",
+    "timestamp": "1730534533.817545"
+}

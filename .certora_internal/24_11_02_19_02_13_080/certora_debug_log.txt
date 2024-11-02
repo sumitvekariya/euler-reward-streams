@@ -1,0 +1,19 @@
+Saving last configuration file to .certora_internal/24_11_02_19_02_13_080/run.conf
+There is no TAC file. Going to script EVMVerifier/certoraBuild.py to main_with_args()
+Creating dir /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/.certora_internal/24_11_02_19_02_13_080/.certora_config
+In /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/RewardBalanceInvariant.spec, found the imports: []
+copying spec file /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/RewardBalanceInvariant.spec to /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/.certora_internal/24_11_02_19_02_13_080/.certora_sources/.0_RewardBalanceInvariant.spec.spec
+writing /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/.certora_internal/24_11_02_19_02_13_080/.certora_verify.json
+running ['java', '-jar', '/Users/sarkazein./Library/Python/3.9/lib/python/site-packages/certora_jars/Typechecker.jar', '-buildDirectory', '/Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/.certora_internal/24_11_02_19_02_13_080']
+
+building file src/BaseRewardStreams.sol
+Running cmd solc --version
+stdout, stderr = .certora_internal/24_11_02_19_02_13_080/.certora_config/version_check_solc.stdout, .certora_internal/24_11_02_19_02_13_080/.certora_config/version_check_solc.stderr
+Exitcode 0
+Solc run solc --version time: 1.0057
+Running cmd solc -o ".certora_internal/24_11_02_19_02_13_080/.certora_config/BaseRewardStreams.sol_0/" --overwrite --allow-paths ".",. --standard-json
+stdout, stderr = .certora_internal/24_11_02_19_02_13_080/.certora_config/BaseRewardStreams.sol_0.standard.stdout.json, .certora_internal/24_11_02_19_02_13_080/.certora_config/BaseRewardStreams.sol_0.standard.stderr.json
+Exitcode 0
+Solc run solc -o ".certora_internal/24_11_02_19_02_13_080/.certora_config/BaseRewardStreams.sol_0/" --overwrite --allow-paths ".",. --standard-json time: 0.0894
+reading standard json data from .certora_internal/24_11_02_19_02_13_080/.certora_config/BaseRewardStreams.sol_0.standard.stdout.json
+build failed

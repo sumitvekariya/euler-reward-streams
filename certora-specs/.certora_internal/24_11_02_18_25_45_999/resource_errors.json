@@ -1,0 +1,13 @@
+{
+    "topics": [
+        {
+            "name": "type_check",
+            "messages": [
+                {
+                    "message": "Error in spec file (RewardBalanceInvariant.spec:3:15): Syntax error: unexpected token near `stream`",
+                    "location": []
+                }
+            ]
+        }
+    ]
+}

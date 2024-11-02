@@ -1,0 +1,8 @@
+Saving last configuration file to .certora_internal/24_11_02_18_05_33_740/run.conf
+There is no TAC file. Going to script EVMVerifier/certoraBuild.py to main_with_args()
+Creating dir /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/.certora_internal/24_11_02_18_05_33_740/.certora_config
+In /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/RewardBalanceInvariant.spec, found the imports: []
+copying spec file /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/RewardBalanceInvariant.spec to /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/.certora_internal/24_11_02_18_05_33_740/.certora_sources/.0_RewardBalanceInvariant.spec.spec
+writing /Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/certora-specs/.certora_internal/24_11_02_18_05_33_740/.certora_verify.json
+Couldn't find the installed Java version.
+build failed

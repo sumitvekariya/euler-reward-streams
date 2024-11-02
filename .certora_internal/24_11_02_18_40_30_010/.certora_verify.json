@@ -1,0 +1,8 @@
+{
+    "importFilesToOrigRelpaths": {},
+    "primary_contract": "BaseRewardStreams",
+    "specfile": "/Users/sarkazein./Documents/Personal/Contacts/Certora/euler-reward-streams/RewardBalanceInvariant.spec",
+    "specfileOrigRelpath": "RewardBalanceInvariant.spec",
+    "specfilesToImportDecls": {},
+    "type": "spec"
+}
